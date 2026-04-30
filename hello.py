@@ -1,6 +1,6 @@
 # This is my new file 
 print('Hello')
-
+print('new line')
 
 
 # git add hello.py
