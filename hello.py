@@ -1,6 +1,6 @@
 # This is my new file 
 print('Hello')
-b = 42 
+b = 45 
 print('this is new print statement')
 a = 20 
 
