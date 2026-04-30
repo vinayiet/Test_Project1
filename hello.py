@@ -2,6 +2,7 @@
 print('Hello')
 b = 40 
 print('this is new print statement')
+a = 20 
 
 # 1. Create a file (make changes into that file)
 # 2. git add file_name 
