@@ -4,6 +4,7 @@ b = 45
 print('this is new print statement')
 a = 20 
 z = 'new_var'
+y = 'new_var1'
 # 1. Create a file (make changes into that file)
 # 2. git add file_name 
 # 3. git commit -m "Written the frontend code"
